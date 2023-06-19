@@ -1,10 +1,10 @@
-### Hi, I'm Alejandro!
+### Hi 👋, I'm Alejandro!
 
-<h3 align="center">I am a programmer with a technical background and Self-taught, seeking to gain experience in the work environment while continuing with studies university students.</h3>
+I am a programmer with a technical background and Self-taught, seeking to gain experience in the work environment while continuing with studies university students.
 
 ## Connect with me:
 
-Linkedin:https://linkedin.com/in/alejandro-agra
+Linkedin: https://linkedin.com/in/alejandro-agra
 
 Email: Aleagra10@gmail.com
 
