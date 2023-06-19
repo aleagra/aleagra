@@ -12,4 +12,4 @@ Email: Aleagra10@gmail.com
 
 ## Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,sass,tailwind,bootstrap,jquery,nodejs,express,sequelize,mysql,mongodb,python,flask,postman,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite, js,ts,html,css,sass,tailwind,bootstrap,nodejs,express,php,mysql,mongodb,postman,git,github)](https://skillicons.dev)
